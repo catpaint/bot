@@ -6,7 +6,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 
-TOKEN = "8893590777:AAG4Icx7IVi57fY6aQLvCtoWR6xaH_Xzab0"
+TOKEN = "8893590777:AAF5orE4ns2jfnsBgONHDKcmYU5wPoThCaU"
 HEADERS = {"User-Agent": "WEAO-3PService"}
 BASE_URL = "https://weao.xyz/api"
 CACHE_FILE = "exploits_cache.json"
